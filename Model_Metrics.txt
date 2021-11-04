@@ -1,0 +1,42 @@
+Black Friday Sales Analysis for Tech Mart
+
+Model Metrics File -- LinearSVR
+
+Final Model Features -- 'Occupation', 'Marital_Status', 'Gender_F', 'Gender_M', 'Age_0-17',
+       'Age_18-25', 'Age_26-35', 'Age_36-45', 'Age_46-50', 'Age_51-55',
+       'Age_55+', 'City_Category_A', 'City_Category_B', 'City_Category_C',
+       'Product_Category_1_1', 'Product_Category_1_2', 'Product_Category_1_3',
+       'Product_Category_1_4', 'Product_Category_1_5', 'Product_Category_1_6',
+       'Product_Category_1_7', 'Product_Category_1_8', 'Product_Category_1_9',
+       'Product_Category_1_10', 'Product_Category_1_11',
+       'Product_Category_1_12', 'Product_Category_1_13',
+       'Product_Category_1_14', 'Product_Category_1_15',
+       'Product_Category_1_16', 'Product_Category_1_17',
+       'Product_Category_1_18', 'Product_Category_1_19',
+       'Product_Category_1_20', 'Product_Category_2_0.0',
+       'Product_Category_2_2.0', 'Product_Category_2_3.0',
+       'Product_Category_2_4.0', 'Product_Category_2_5.0',
+       'Product_Category_2_6.0', 'Product_Category_2_7.0',
+       'Product_Category_2_8.0', 'Product_Category_2_9.0',
+       'Product_Category_2_10.0', 'Product_Category_2_11.0',
+       'Product_Category_2_12.0', 'Product_Category_2_13.0',
+       'Product_Category_2_14.0', 'Product_Category_2_15.0',
+       'Product_Category_2_16.0', 'Product_Category_2_17.0',
+       'Product_Category_2_18.0', 'Product_Category_3_0.0',
+       'Product_Category_3_3.0', 'Product_Category_3_4.0',
+       'Product_Category_3_5.0', 'Product_Category_3_6.0',
+       'Product_Category_3_8.0', 'Product_Category_3_9.0',
+       'Product_Category_3_10.0', 'Product_Category_3_11.0',
+       'Product_Category_3_12.0', 'Product_Category_3_13.0',
+       'Product_Category_3_14.0', 'Product_Category_3_15.0',
+       'Product_Category_3_16.0', 'Product_Category_3_17.0',
+       'Product_Category_3_18.0', 'Stay_In_Current_City_Years'
+
+Parameters -- LinearSVR: C=2.0
+
+Performance Metrics -- Mean squared error, Mean absolute error
+
+    LinearSVR: Mean Absolute Error of Train Set: 2189.7376320947997
+               Mean Squared Error of Train Set: 9696381.938957602
+               Mean Absolute Error of Test Set: 2204.7117686920137
+               Mean Squared Error of Test Set: 9870467.10057396
